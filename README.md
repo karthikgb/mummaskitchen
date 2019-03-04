@@ -8,6 +8,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Trial App with Angular and Heroku
 
+## Live demo
+https://mummaskitchen.herokuapp.com/
+
 https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147 
 
 ## Code scaffolding
