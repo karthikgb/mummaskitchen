@@ -1,17 +1,10 @@
-# FirstHostingApp
+# Mammaskitchen
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-Trial App with Angular and Heroku
-
-## Live demo
-https://mummaskitchen.herokuapp.com/
-
-https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147 
 
 ## Code scaffolding
 
