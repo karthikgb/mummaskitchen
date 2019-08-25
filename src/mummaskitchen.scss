@@ -1,0 +1,12 @@
+@import "~@angular/material/theming";
+
+@include mat-core();
+$mummaskitchen-primary: mat-palette($mat-teal, 200);
+$mummaskitchen-accent: mat-palette($mat-teal, 50);
+$mummaskitchen-warn: mat-palette($mat-red);
+$mummaskitchen-theme: mat-light-theme($mummaskitchen-primary, $mummaskitchen-accent, $mummaskitchen-warn);
+@include angular-material-theme($mummaskitchen-theme);
+
+.navtabs-container {
+    background-color: mat-color($mummaskitchen-accent);
+}
